@@ -1,4 +1,4 @@
-## Prazer! Eu sou a Jullia Weber
+3## Prazer! Eu sou a Jullia Weber
 
 - 👩‍🎓 Estou cursando ánalise e desenvolvimento de sistemas
 - 👩‍💻 Sou estagiaria em dev full stack na Monitora soluções tecnológicas
@@ -7,8 +7,8 @@
  
  <div align="center">
   <a href="https://github.com/JulliaW">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliaw&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julliaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliaw&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=julliaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jullia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
