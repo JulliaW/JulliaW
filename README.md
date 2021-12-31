@@ -1,4 +1,8 @@
-## Olá! Eu sou a Jullia Weber
+## Prazer! Eu sou a Jullia Weber
+
+- 👩‍🎓 Estou cursando ánalise e desenvolvimento de sistemas
+- 👩‍💻 Sou estagiaria em dev full stack na Monitora soluções tecnológicas
+- 🎨 Amo front-end
 
  
  <div align="center">
