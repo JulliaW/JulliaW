@@ -10,7 +10,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliaw&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=julliaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jullia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Jullia-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Jullia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
