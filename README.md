@@ -1,7 +1,7 @@
 ## Prazer! Eu sou a Jullia Weber
 
 - 👩‍🎓 Estou cursando análise e desenvolvimento de sistemas
-- 👩‍💻 Sou estagiaria em Suporte
+- 👩‍💻 Sou estagiaria
 - 🎨 Amo front-end
 
  
