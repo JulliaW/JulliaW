@@ -1,7 +1,7 @@
 ## Prazer! Eu sou a Jullia Weber
 
 - 👩‍🎓 Estou cursando análise e desenvolvimento de sistemas
-- 👩‍💻 Sou estagiaria
+- 👩‍💻 Sou DEV Front-End no <a href="[https://github.com/JulliaW](https://grupoimendes.com.br)"> Grupo Imendes </a>
 - 🎨 Amo front-end
 
  
