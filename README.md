@@ -1,6 +1,6 @@
 ## Prazer! Eu sou a Jullia Weber
 
-- 👩‍🎓 Estou cursando análise e desenvolvimento de sistemas
+- 👩‍🎓 tecnóloga análise e desenvolvimento de sistemas
 - 👩‍💻 Sou DEV na empresa <a href="https://grupoimendes.com.br"> Imendes </a>
 - 🎨 Amo front-end
 
