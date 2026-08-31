@@ -42,6 +42,6 @@ Git • GitHub • Visual Studio
 
 ---
 
-📫 **Vamos conversar?**
+### 📫 Vamos conversar?
 
-[LinkedIn](www.linkedin.com/in/jullia-weber) • [GitHub](https://github.com/JulliaW)
+[LinkedIn](https://www.linkedin.com/in/jullia-weber) • [GitHub](https://github.com/JulliaW)
