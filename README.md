@@ -1,25 +1,47 @@
-## Prazer! Eu sou a Jullia Weber
+# Olá! Eu sou a Jullia 👋
 
-- 👩‍🎓 tecnóloga análise e desenvolvimento de sistemas
-- 👩‍💻 Sou DEV na empresa <a href="https://grupoimendes.com.br"> Imendes </a>
-- 🎨 Amo front-end
+💻 **Desenvolvedora de Software**
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jullia-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Jullia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Jullia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Jullia-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Jullia-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Jullia-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+Sou desenvolvedora com experiência no desenvolvimento e manutenção de sistemas, atuando principalmente com **C#/.NET, APIs e desenvolvimento web**.
 
-</div>
-  
-  ##
- 
-<div align="center"> 
-  <a href="https://www.instagram.com/julliarw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:weberjullia444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jullia-weber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/jullia.weber" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- 
-</div>
+Tenho experiência com:
+
+* 🔹 C# / .NET
+* 🔹 APIs REST
+* 🔹 Vue.js
+* 🔹 JavaScript, HTML e CSS
+* 🔹 SQL e bancos de dados
+* 🔹 Git / GitHub
+* 🔹 Integração entre sistemas
+
+🎨 Tenho especial interesse em desenvolvimento Front-end, mas também gosto de atuar no Back-end e entender o sistema como um todo.
+
+📚 Atualmente, continuo aprimorando meus conhecimentos em **boas práticas de desenvolvimento, testes, injeção de dependência e arquitetura de software**.
+
+🚀 Meu objetivo é continuar evoluindo como desenvolvedora e participar da construção de soluções que gerem valor para usuários e negócios.
+
+---
+
+### 🛠️ Tecnologias
+
+**Back-end**
+
+C# • .NET • APIs REST • Dapper
+
+**Front-end**
+
+Vue.js • JavaScript • HTML5 • CSS3
+
+**Banco de dados**
+
+SQL
+
+**Ferramentas**
+
+Git • GitHub • Visual Studio
+
+---
+
+📫 **Vamos conversar?**
+
+[LinkedIn](www.linkedin.com/in/jullia-weber) • [GitHub](https://github.com/JulliaW)
